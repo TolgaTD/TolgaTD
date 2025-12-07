@@ -16,18 +16,17 @@
     </a>
   </p>
 
-  <br/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-- [cite_start]🔭 I’m currently working as a **Cyber Security Specialist** [cite: 20].
-- [cite_start]🎓 Senior **Computer Engineering** student at Gazi University[cite: 9, 15].
-- [cite_start]🛡️ Specialized in **Mobile Security (Android)**, **Threat Hunting**, and **Malware Analysis**[cite: 10, 11, 30].
-- [cite_start]💡 I enjoy **Reverse Engineering** mobile apps and developing security tools using **Python & Java**[cite: 11, 13].
-
+- 🔭 I’m currently working as a **Cyber Security Specialist** at **CBERNET**.
+- 🎓 Senior **Computer Engineering** student at Gazi University.
+- 🛡️ Specialized in **Mobile Security (Android)**, **Threat Hunting**, and **Malware Analysis**.
+- 💡 I enjoy **Reverse Engineering** mobile apps and developing security tools using **Python & Java**.
+- 🏆 **Awards:** Hackathon Winner & CTF Player.
 
 ---
 
@@ -42,6 +41,8 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 
+<br/>
+
 **Security & Tools**
 <br/>
 <img src="https://img.shields.io/badge/Reverse_Engineering-FF0000?style=for-the-badge&logo=c&logoColor=white" alt="RE"/>
@@ -50,11 +51,13 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 
+<br/>
+
 **Certifications**
 <br/>
-![eJPT](https://img.shields.io/badge/eJPT-Certified-red)
-![Threat Hunting](https://img.shields.io/badge/INE-Threat%20Hunting-blue)
-![Mobile Pentest](https://img.shields.io/badge/INE-Mobile%20PenTest-orange)
+<img src="https://img.shields.io/badge/INE-eJPT_Certified-red?style=flat-square&logo=hackthebox&logoColor=white" alt="eJPT"/>
+<img src="https://img.shields.io/badge/INE-Threat_Hunting_Professional-blue?style=flat-square&logo=hackthebox&logoColor=white" alt="Threat Hunting"/>
+<img src="https://img.shields.io/badge/INE-Mobile_Application_Penetration_Tester-orange?style=flat-square&logo=android&logoColor=white" alt="Mobile Pentest"/>
 
 </div>
 
@@ -63,8 +66,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TolgaTD&show_icons=true&theme=radical&hide_border=true" alt="TolgaTD's Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaTD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <a href="https://github.com/TolgaTD">
+    <img src="https://github-readme-stats.vercel.app/api?username=TolgaTD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="TolgaTD's Stats" />
+  </a>
+  <br/>
+  <a href="https://github.com/TolgaTD">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaTD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  </a>
 </div>
 
 ---
