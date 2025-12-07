@@ -67,11 +67,11 @@
 
 <div align="center">
   <a href="https://github.com/TolgaTD">
-    <img src="https://github-readme-stats.vercel.app/api?username=TolgaTD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="TolgaTD's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=TolgaTD&show_icons=true&theme=radical&hide_border=false" alt="TolgaTD Stats" />
   </a>
   <br/>
   <a href="https://github.com/TolgaTD">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaTD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaTD&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
   </a>
 </div>
 
