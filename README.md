@@ -1,9 +1,74 @@
-- 👋 Hi, I’m @TolgaTD
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Engineering
-- 📫 How to reach me https://tolgademirel.net
+<div align="center">
 
-<!---
-TolgaTD/TolgaTD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h1>🚀 Hi there, I'm Tolga Demirel!</h1>
+  
+  <h3>Security Researcher | Reverse Engineer | Red/Blue Team Player</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/tolga-demirel">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://tolga-demirel.medium.com/">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="mailto:tolgademirel6@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <br/>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- [cite_start]🔭 I’m currently working as a **Cyber Security Specialist** [cite: 20].
+- [cite_start]🎓 Senior **Computer Engineering** student at Gazi University[cite: 9, 15].
+- [cite_start]🛡️ Specialized in **Mobile Security (Android)**, **Threat Hunting**, and **Malware Analysis**[cite: 10, 11, 30].
+- [cite_start]💡 I enjoy **Reverse Engineering** mobile apps and developing security tools using **Python & Java**[cite: 11, 13].
+
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+
+**Security & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-FF0000?style=for-the-badge&logo=c&logoColor=white" alt="RE"/>
+<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+
+**Certifications**
+<br/>
+![eJPT](https://img.shields.io/badge/eJPT-Certified-red)
+![Threat Hunting](https://img.shields.io/badge/INE-Threat%20Hunting-blue)
+![Mobile Pentest](https://img.shields.io/badge/INE-Mobile%20PenTest-orange)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TolgaTD&show_icons=true&theme=radical&hide_border=true" alt="TolgaTD's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaTD&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TolgaTD&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
