@@ -2,7 +2,7 @@
 
   <h1>🚀 Hi there, I'm Tolga!</h1>
   
-  <h3>Security Researcher | Reverse Engineer | Red/Blue Team Player</h3>
+  <h3>Security Researcher | Red/Blue Team Player</h3>
 
   <p>
     <a href="https://linkedin.com/in/tolga-demirel">
