@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>🚀 Hi there, I'm Tolga Demirel!</h1>
+  <h1>🚀 Hi there, I'm Tolga!</h1>
   
   <h3>Security Researcher | Reverse Engineer | Red/Blue Team Player</h3>
 
