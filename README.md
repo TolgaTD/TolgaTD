@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/tolga-demirel">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://tolga-demirel.medium.com/">
+    <a href="https://tolga-td.medium.com/">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
     </a>
     <a href="mailto:tolgademirel6@gmail.com">
